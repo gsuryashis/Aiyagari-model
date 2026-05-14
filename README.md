@@ -1,7 +1,7 @@
 # Aiyagari Model with Unemployment Insurance
 
 > **Course Project · Macroeconomics: Incomplete Markets**  
-> Sneha Thankkam Raju & Suryashis Ghosh · May 2025
+> Suryashis Ghosh  & Sneha Thankkam Raju · May 2025
 
 A computational implementation of the Aiyagari (1994) incomplete-markets model, extended to include unemployment insurance financed by a proportional wage tax. We solve for the stationary general equilibrium and study how the tax rate affects capital accumulation and the wealth distribution.
 
